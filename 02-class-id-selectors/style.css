@@ -1,0 +1,20 @@
+p {
+    background-color: pink;
+    color: black;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+#numtwo {
+   color: blue; 
+   font-size: 32px;
+}
+
+#numthree {
+   font-size: 24px;
+}
+
+#numfour {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
